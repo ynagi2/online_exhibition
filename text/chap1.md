@@ -3,25 +3,28 @@
 &emsp; この2年、新型コロナウイルス感染拡大防止のため、ライブの中止や制限されることが多く見られる。1章では、コロナ禍以前のライブを遡って、従来のライブの特徴をまとめ、コロナ禍以後のオンラインライブと対照を行う。  
 &emsp; まずは、「有観客」という特徴である。会場の広さによって、収容人数は違うが、観客が直接に会場に行き、ライブを楽しめるという形式は共通の特徴である。また、ライブの楽しみ方に関しては、様々な表現が見られる。ライブの途中に、観客が盛り上がったり叫んだり、歌ったり、踊ったりすることも多数見られる。そして、ライブの最後に、観客が「アンコール」を待つことが多く見られる。観客はアーティストの名前や愛称を、アーティストが再登場するまでに何回も叫ぶことが多く見られる。  
 fig1-1  
-&emsp; 引用元：桑田佳祐 LIVE Blu-ray＆DVD「がらくたライブ」スペシャルサイトhttps://special.southernallstars.jp/special/garakutalive/  
-&emsp; アーティスト：桑田佳祐  
-&emsp; 開催日程：2017年  
-&emsp; 会場：5大ドームを含む全国10ヶ所  
-&emsp; 公演数：18公演  
-&emsp; 動員人数：約40万人  
+引用元：桑田佳祐 LIVE Blu-ray＆DVD「がらくたライブ」スペシャルサイト ( https://special.southernallstars.jp/special/garakutalive/ )  
+アーティスト：桑田佳祐  
+開催日程：2017年  
+会場：5大ドームを含む全国10ヶ所  
+公演数：18公演  
+動員人数：約40万人  
 fig1-2  
-&emsp; 引用元：Rockin’on.com  https://rockinon.com/live/detail/169644  
+引用元：Rockin’on.com ( https://rockinon.com/live/detail/169644 )  
 &emsp; 桑田佳祐LIVE TOUR 2017「がらくた」の映像作品には、11月11日、12日に行われた東京ドーム公演を中心に、ライブ映像が収録されている。このライブの観客層が非常に幅広く、違う世代の観客が感動する様子が多数見られる。さらにアンコール楽曲「ダーリン」、「明日へのマーチ」なども収録され、日本のライブの特徴である「アンコール」と一致していると考えられる。  
-&emsp; 引用元：TOWER RECORDS ONLINE がらくたライブ ［2Blu-ray Disc+BOOK］＜初回限定盤＞ https://tower.jp/item/4693059/%E3%81%8C%E3%82%89%E3%81%8F%E3%81%9F%E3%83%A9%E3%82%A4%E3%83%96-[2Blu-ray-Disc%EF%BC%8BBOOK]%EF%BC%9C%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%9B%A4%EF%BC%9E  
+引用元：TOWER RECORDS ONLINE がらくたライブ ［2Blu-ray Disc+BOOK］＜初回限定盤＞ https://tower.jp/item/4693059/  
+---  
+---  
 fig1-3  
-&emsp; 引用元：EXILE LIVE TOUR 2018-2019 “STAR OF WISH”公式サイト https://m.ex-m.jp/Cts/live/2018/exile/star_of_wish/index  
-&emsp; アーティスト：EXILE  
-&emsp; 開催日程：2018-2019年  
-&emsp; 会場：6大ドーム  
-&emsp; 公演数：全19公演  
-&emsp; 動員人数：約88万人  
+引用元：EXILE LIVE TOUR 2018-2019 “STAR OF WISH”公式サイト ( https://m.ex-m.jp/Cts/live/2018/exile/star_of_wish/index )  
+アーティスト：EXILE  
+開催日程：2018-2019年  
+会場：6大ドーム  
+公演数：全19公演  
+動員人数：約88万人  
 &emsp; EXILEの3年ぶりのドームツアーであり、情熱的な観客の集まる場所でもある。全体的に、ライブ専用のグッズを持って参加する観客が多く見られる。アーティストの熱唱と激しいダンスと共に、観客が一緒に歌い、グッズのフラッグを大きく振る光景が見られる。さらに、特定の曲の際に、観客がアーティストと同じ動作でダンスを踊り、一体感を非常に感じられると考えられる。  
 fig1-4  
-&emsp; ライブグッズのフラッグ  
-&emsp; 引用元：EXILE LIVE TOUR 2018-2019 “STAR OF WISH”公式サイト https://m.ex-m.jp/Cts/live/2018/exile/star_of_wish/tourgoods/index  
+ライブグッズのフラッグ  
+引用元：EXILE LIVE TOUR 2018-2019 “STAR OF WISH”公式サイト ( https://m.ex-m.jp/Cts/live/2018/exile/star_of_wish/tourgoods/index )  
+---  
 &emsp; 従来のライブは、現地で開催され、観客が直接会場に行き、ライブを参加することが中心となった。会場への移動時間、ライブの始まりを待つ時間、ライブ中の楽しめる時間やライブ後の余韻を味わう時間を合わせて、そのすべてがライブの楽しいところであり、貴重なライブ体験であるとも言える。そして、ステージ上のアーティストと観客の間に生まれる一体感に関しては、ライブならではの特徴ではないかと考えている。  

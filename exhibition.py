@@ -24,13 +24,18 @@ def show_chapter(texts_dir, text_files, idx):
 
 def main():
     st.title("コロナ禍におけるライブコンサートの変化（仮）")
-    st.markdown("代表者メールアドレス: s2121656 at s.tsukuba.ac.jp")
     texts_dir = "./text/"
     text_files = sorted(os.listdir(texts_dir))
-    sections = ("はじめに", "1章 コロナ禍以前・通常のライブ", "2章 コロナ禍の無観客・配信ライブ", "3章　有観客ライブの新様式", "おわりに", "担当者")
+    sections = ("はじめに", "1章 コロナ禍以前・通常のライブ", "2章 コロナ禍の無観客・配信ライブ", "3章　有観客ライブの新様式", "おわりに")
     add_selectbox = st.sidebar.selectbox("章立て", sections)
-    show_chapter(texts_dir, text_files, sections.index(add_selectbox))
-    st.markdown("\n\n\n2021年11月　「人文知コミュニケーション：人文社会科学と自然科学の壁を超える」C班")
+    chapter = sections.index(add_selectbox)
+    show_chapter(texts_dir, text_files, chapter)
+    members = ("山田直輝", "人文社会科学研究群　国際日本研究プログラム　接暁岩", "人文社会科学研究群　人文学位プログラム　塩見葵", "人間総合科学研究科　芸術専攻　常包美穂", "山田直輝")
+    st.markdown("---")
+    member = "文責：" + members[chapter]
+    st.markdown(member)
+    st.markdown("ページ制作：人間総合科学研究群　情報学学位プログラム　柳田雄輝")
+    st.markdown("2021年11月　「人文知コミュニケーション：人文社会科学と自然科学の壁を超える」C班")
 
 
 if __name__ == '__main__':
