@@ -30,7 +30,7 @@ def main():
     add_selectbox = st.sidebar.selectbox("章立て", sections)
     chapter = sections.index(add_selectbox)
     show_chapter(texts_dir, text_files, chapter)
-    members = ("山田直輝", "人文社会科学研究群　国際日本研究プログラム　接暁岩", "人文社会科学研究群　人文学位プログラム　塩見葵", "人間総合科学研究科　芸術専攻　常包美穂", "山田直輝")
+    members = ("システム情報工学研究群　社会工学学位プログラム　山田直輝", "人文社会科学研究群　国際日本研究プログラム　接暁岩", "人文社会科学研究群　人文学位プログラム　塩見葵", "人間総合科学研究科　芸術専攻　常包美穂", "システム情報工学研究群　社会工学学位プログラム　山田直輝")
     st.markdown("---")
     member = "文責：" + members[chapter]
     st.markdown(member)
