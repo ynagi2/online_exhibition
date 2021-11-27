@@ -23,7 +23,7 @@ def show_chapter(texts_dir, text_files, idx):
 
 
 def main():
-    st.title("コロナ禍におけるライブコンサートの変化（仮）")
+    st.title("withコロナ時代のライブ新様式")
     texts_dir = "./text/"
     text_files = sorted(os.listdir(texts_dir))
     sections = ("はじめに", "1章 コロナ禍以前・通常のライブ", "2章 コロナ禍の無観客・配信ライブ", "3章　有観客ライブの新様式", "おわりに")
